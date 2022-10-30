@@ -1,4 +1,4 @@
-# Insertion-Sort-Project-for-patika.dev
+# Projects-for-patika.dev
 
 [Patika.dev](https://www.patika.dev/tr)
 
